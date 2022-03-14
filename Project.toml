@@ -1,0 +1,11 @@
+name = "GCDataExtract"
+uuid = "e7855e4b-dcea-4d29-b453-7248d8dd4dc6"
+authors = ["Manfred-HCE <m.schmidt.bue@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Dates = "ade2ca70-3891-5945-98fb-dc099432e06a"
+DelimitedFiles = "8bb1440f-4735-579b-a4ab-409b98df4dab"
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+XLSX = "fdbf4ff8-1666-58a4-91e7-1b58723a45e0"
